@@ -1,0 +1,17 @@
+{
+  "research": [
+    {
+      "title": "Example: Petrophysical evaluation of a sandstone reservoir",
+      "date": "2026-09",
+      "summary": "Replace this with a real entry — a one- or two-sentence summary of the file.",
+      "file": "files/example-research.pdf"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Why I'm posting research here instead of keeping it in a drawer",
+      "date": "2026-09-27",
+      "content": "Replace this with your own post text. Keep entries short — this is meant for working notes and ideas, not polished papers."
+    }
+  ]
+}
